@@ -2,7 +2,12 @@
 
 <p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, gerente de projetos e agilista, apaixonado por desenvolvimento. Desenvolvo soluções em Python e R, com front HTML. Nesta competência sou mid-level (pleno). Construo soluções com  <b>IA, Machine Learning e DevOps</b> do <img width="23" height="27" alt="brasil" src="https://github.com/user-attachments/assets/fce69ce4-d876-4fda-b641-1389bd71484c" /> <b>Brasil</b>. Sou fãnzaço por criar soluções inovadoras que combinam inteligência artificial e data science com infraestrutura prontas para escalar.</p>
 
-
+<h3>🎯 Minha Missão</h3>
+<p>
+  Criar soluções inovadoras que combinam <b>inteligência artificial de ponta</b> com <b>infraestrutura robusta e escalável</b>. 
+  Acredito em código limpo, documentação excelente, testes abrangentes e DevOps bem executado. 
+  Meu foco é entregar valor através de automação, otimização e sistemas inteligentes que resolvem problemas reais.
+</p>
 
 <h3>🎯 Áreas de Especialização</h3>
 <p>
@@ -37,6 +42,8 @@
   <img alt="Vibecoding" src="https://img.shields.io/badge/-Vibecoding-6C63FF?style=flat-square&logo=code&logoColor=white" />
   <img alt="AI Product Builder" src="https://img.shields.io/badge/-AI%20Product%20Builder-FF6B9D?style=flat-square&logo=rocket&logoColor=white" />
 </p>
+
+<img width="2430" height="1230" alt="wordcloud" src="https://github.com/user-attachments/assets/766c2117-1a79-4e25-93ab-b2fc814c3bc6" />
 
 <h3>💼 Projetos em Desenvolvimento</h3>
 <table>
@@ -102,12 +109,7 @@
   <img src="https://img.shields.io/badge/Innovation-pink?style=for-the-badge" />
 </div>
 
-<h3>🎯 Minha Missão</h3>
-<p>
-  Criar soluções inovadoras que combinam <b>inteligência artificial de ponta</b> com <b>infraestrutura robusta e escalável</b>. 
-  Acredito em código limpo, documentação excelente, testes abrangentes e DevOps bem executado. 
-  Meu foco é entregar valor através de automação, otimização e sistemas inteligentes que resolvem problemas reais.
-</p>
+
 
 <h3>📊 Estatísticas do Portfólio</h3>
 <p align="center">
