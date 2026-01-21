@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Bem-vindo ao meu perfil.</h1>
 
-<p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, gerente de projetos e agilista, apaixonado por desenvolvimento. Desenvolvo soluções em Python e R, com front HTML. Nesta competência sou mid-level (pleno). Construo soluções com  <b>IA, Machine Learning e DevOps</b> do <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png/br.png" width="13"/> <b>Brasil</b>. Sou fãnzaço por criar soluções inovadoras que combinam inteligência artificial e data science com infraestrutura prontas para escalar.</p>
+<p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, gerente de projetos e agilista, apaixonado por desenvolvimento. Desenvolvo soluções em Python e R, com front HTML. Nesta competência sou mid-level (pleno). Construo soluções com  <b>IA, Machine Learning e DevOps</b> do <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png/br.png" width="13"/> <b>Brasil</b>. Sou fãnzaço por criar soluções inovadoras que combinam inteligência artificial e data science com infraestrutura prontas para escalar.</p>
 
 <h3>🎯 Áreas de Especialização</h3>
 <p>
@@ -28,6 +28,12 @@
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img alt="LangChain" src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=python&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" />
+  <img alt="LangGraph" src="https://img.shields.io/badge/-LangGraph-0D47A1?style=flat-square&logo=python&logoColor=white" />
+  <img alt="CNN" src="https://img.shields.io/badge/-CNN-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="YOLO" src="https://img.shields.io/badge/-YOLO-003366?style=flat-square&logo=opencv&logoColor=white" />
+  <img alt="N8N" src="https://img.shields.io/badge/-N8N-EB424B?style=flat-square&logo=n8n&logoColor=white" />
+  <img alt="Vibecoding" src="https://img.shields.io/badge/-Vibecoding-6C63FF?style=flat-square&logo=code&logoColor=white" />
+  <img alt="AI Product Builder" src="https://img.shields.io/badge/-AI%20Product%20Builder-FF6B9D?style=flat-square&logo=rocket&logoColor=white" />
 </p>
 
 <h3>💼 Projetos em Desenvolvimento</h3>
@@ -146,5 +152,6 @@
 <p align="center">
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BettoEsteves&layout=compact&theme=dark" />
 </p>
+
 
 
