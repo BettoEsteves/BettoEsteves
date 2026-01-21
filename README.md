@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Bem-vindo ao meu perfil.</h1>
 
-<p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, gerente de projetos e agilista, apaixonado por desenvolvimento. Desenvolvo soluções em Python e R, com front HTML. Nesta competência sou mid-level (pleno). Construo soluções com  <b>IA, Machine Learning e DevOps</b> do <img src="https://raw.githubusercontent.com/hampusborgos/country-flags/main/png/br.png" width="13"/> <b>Brasil</b>. Sou fãnzaço por criar soluções inovadoras que combinam inteligência artificial e data science com infraestrutura prontas para escalar.</p>
+<p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, gerente de projetos e agilista, apaixonado por desenvolvimento. Desenvolvo soluções em Python e R, com front HTML. Nesta competência sou mid-level (pleno). Construo soluções com  <b>IA, Machine Learning e DevOps</b> do <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/93e9151f-b6d2-4ab7-8d65-58c41ea38862"  width="13"/> <b>Brasil</b>. Sou fãnzaço por criar soluções inovadoras que combinam inteligência artificial e data science com infraestrutura prontas para escalar.</p>
+
 
 <h3>🎯 Áreas de Especialização</h3>
 <p>
