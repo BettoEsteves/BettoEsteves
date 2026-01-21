@@ -75,6 +75,12 @@
       <td>🔐 Privado</td>
     </tr>
   </tbody>
+  <tr>
+    <td><a href="https://github.com/BettoEsteves/github-repo-wordcloud"><b>GitHub Repo WordCloud Generator</b></a></td>
+    <td>Gera nuvem de palavras a partir dos repositórios públicos de qualquer usuário do GitHub</td>
+    <td>Python, WordCloud, GitHub API</td>
+    <td>✅ Público</td>
+  </tr>
 </table>
 
 <h3>🌟 Destaques & Conhecimentos</h3>
