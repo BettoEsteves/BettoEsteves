@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Bem-vindo ao meu perfil.</h1>
 
-<p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, desenvolvedor full-stack e especialista em <b>IA, Machine Learning e DevOps</b> do <img src="https://cdn-icons-png.flaticon.com/512/206/206621.png" width="13"/> <b>Brasil</b>. Sou apaixonado por criar soluções inovadoras que combinam inteligência artificial com infraestrutura robusta e escalável.</p>
+<p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, desenvolvedor full-stack e especialista em <b>IA, Machine Learning e DevOps</b> do <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png/br.png" width="13"/> <b>Brasil</b>. Sou apaixonado por criar soluções inovadoras que combinam inteligência artificial com infraestrutura robusta e escalável.</p>
 
 <h3>🎯 Áreas de Especialização</h3>
 <p>
