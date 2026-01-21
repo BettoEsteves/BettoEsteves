@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Olá! Bem-vindo ao meu perfil.</h1>
 
-<p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, desenvolvedor full-stack e especialista em <b>IA, Machine Learning e DevOps</b> do <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png/br.png" width="13"/> <b>Brasil</b>. Sou apaixonado por criar soluções inovadoras que combinam inteligência artificial com infraestrutura robusta e escalável.</p>
+<p>Bem-vindo! 👋 </br> Meu nome é <b>José Alberto Esteves</b>, gerente de projetos e agilista, apaixonado por desenvolvimento. Desenvolvo soluções em Python e R, com front HTML. Nesta competência sou mid-level (pleno). Construo soluções com  <b>IA, Machine Learning e DevOps</b> do <img src="https://cdn.jsdelivr.net/gh/hampusborgos/country-flags@main/png/br.png" width="13"/> <b>Brasil</b>. Sou fãnzaço por criar soluções inovadoras que combinam inteligência artificial e data science com infraestrutura prontas para escalar.</p>
 
 <h3>🎯 Áreas de Especialização</h3>
 <p>
@@ -21,16 +21,8 @@
   <img alt="Azure" src="https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white" />
   <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Redis" src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" />
-  <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F2CC0C?style=flat-square&logo=grafana&logoColor=white" />
-  <img alt="MLflow" src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" />
-  <img alt="Apache Airflow" src="https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  <img alt="SonarQube" src="https://img.shields.io/badge/-SonarQube-4E98CD?style=flat-square&logo=sonarqube&logoColor=white" />
-  <img alt="Snyk" src="https://img.shields.io/badge/-Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white" />
   <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
@@ -123,9 +115,6 @@
   <a href="https://www.linkedin.com/in/bettoesteves" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:josealberto.enascimento@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
 </p>
 
 ---
@@ -158,8 +147,4 @@
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BettoEsteves&layout=compact&theme=dark" />
 </p>
 
----
 
-<p align="center">
-  <i>Desenvolvido com ❤️ | Criado com GitHub • Powered by AI</i>
-</p>
